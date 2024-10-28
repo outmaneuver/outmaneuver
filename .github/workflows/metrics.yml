@@ -23,10 +23,10 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.BOT_METRICS_TOKEN }}
 
           # Options
-          user: docimin
+          user: github-actions[bot]
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
