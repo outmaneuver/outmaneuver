@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: github-actions[bot]
+          user: outmaneuver
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
