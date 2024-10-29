@@ -9,5 +9,3 @@ Need something done? Hit me up! Maybe I'll be able to help you.
 
 ![Outmaneuver's github stats](https://github-readme-stats.vercel.app/api?username=outmaneuver&theme=algolia&show_icons=true&count_private=true)
 ![Metrics](https://github.com/outmaneuver/outmaneuver/blob/main/github-metrics.svg)
-
-Check out my [mastered technologies and topics](https://github.com/outmaneuver/outmaneuver/blob/main/github-metrics.svg).
