@@ -67,5 +67,5 @@ jobs:
           repositories_affiliations: 
           repositories_forks: yes
           plugin_topics: yes
-          plugin_topics_mode: mastered
+          plugin_topics_mode: icons
           plugin_topics_limit: 10
