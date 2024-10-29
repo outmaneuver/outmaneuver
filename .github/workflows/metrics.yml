@@ -53,7 +53,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 0
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -68,4 +68,4 @@ jobs:
           repositories_forks: yes
           plugin_topics: yes
           plugin_topics_mode: starred
-          plugin_topics_limit: 10
+          plugin_topics_limit: 0
