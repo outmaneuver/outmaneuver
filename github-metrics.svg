@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    302k added, 161k removed
+                                    333k added, 235k removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    557 views in last two weeks
+                                    514 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -671,50 +671,50 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,10.947,-79.247L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,11.118,-79.224L0,0Z">
                                         <title>Python
-1.54</title>
+1.56</title>
                                     </path>
-                                    <path fill="#3178c6" d="M11.937,-79.104A80,80,0,1,1,-47.35,64.483L0,0Z">
+                                    <path fill="#3178c6" d="M12.108,-79.078A80,80,0,1,1,-45.353,65.902L0,0Z">
                                         <title>TypeScript
-42.61</title>
+42.08</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-48.152,63.886A80,80,0,0,1,-51.869,60.906L0,0Z">
+                                    <path fill="#3178c6" d="M-46.173,65.33A80,80,0,0,1,-49.992,62.456L0,0Z">
                                         <title>TSX
 0.70</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-52.626,60.253A80,80,0,0,1,-27.134,-75.258L0,0Z">
+                                    <path fill="#f1e05a" d="M-50.769,61.826A80,80,0,0,1,-27.408,-75.158L0,0Z">
                                         <title>JavaScript
-24.42</title>
+24.65</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-26.191,-75.591A80,80,0,0,1,-16.557,-78.268L0,0Z">
+                                    <path fill="#e34c26" d="M-26.466,-75.495A80,80,0,0,1,-16.742,-78.229L0,0Z">
                                         <title>HTML
-1.47</title>
+1.48</title>
                                     </path>
-                                    <path fill="#563d7c" d="M-15.578,-78.469A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#563d7c" d="M-15.763,-78.432A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>CSS
-2.23</title>
+2.25</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(2.867957884066688,-39.89705274296862)">
+                                    <text transform="translate(2.9110021654696503,-39.893935208157025)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
                                     </text>
-                                    <text transform="translate(36.97237612691812,15.265759186155632)">
+                                    <text transform="translate(37.18591700777744,14.737963776949945)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">42.61</tspan>
+                                        <tspan x="0" y="1.1em">42.08</tspan>
                                     </text>
-                                    <text transform="translate(-25.01634071017851,31.21189993371543)">
+                                    <text transform="translate(-24.052136735811498,31.96083100361796)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
                                     </text>
-                                    <text transform="translate(-39.310473152262524,-7.395045675670118)">
+                                    <text transform="translate(-39.43071969529915,-6.724458663026153)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">24.42</tspan>
+                                        <tspan x="0" y="1.1em">24.65</tspan>
                                     </text>
-                                    <text transform="translate(-10.708112960524186,-38.540061193836394)">
+                                    <text transform="translate(-10.823742579493532,-38.50774722796516)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
-                                    <text transform="translate(-4.037617320525259,-39.79569884262612)">
+                                    <text transform="translate(-4.084566809132867,-39.790907428478306)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
                                 </g>
@@ -1939,7 +1939,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.25 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.766666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1961,10 +1961,10 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">305</div>
+                                        <div class="value">306</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 305 times</div>
+                                <div class="text">Repositories have been deployed 306 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2270,7 +2270,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2024, 21:11:58 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2024, 22:11:01 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
