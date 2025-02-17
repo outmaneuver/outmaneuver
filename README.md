@@ -1,6 +1,6 @@
 # Hi, I'm Outmaneuver 👋
 
-I'm a freelancer in Programming, Web Applications and Game Development. Living in Canada, I've been programming for about 8+ years. All I do is work, work and um.. work.
+I'm a freelancer in Programming, Web Applications and Game Development. Living in Bulgaria, I've been programming for about 8+ years. All I do is work, work and um.. work.
 You can find me working every day. It's all just code and code.
 
 Need something done? Hit me up! Maybe I'll be able to help you.
