@@ -1,0 +1,16 @@
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# Development files
+.vscode/
+.idea/
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Build artifacts
+dist/
+build/
