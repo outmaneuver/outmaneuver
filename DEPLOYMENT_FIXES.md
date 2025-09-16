@@ -4,7 +4,12 @@
 
 ### 1. GitHub Metrics Workflow Failures
 
-The GitHub metrics workflow was consistently failing due to two main issues:
+The GitHub metrics workflow was consistently failing due to Docker build issues:
+
+#### **Latest Version Docker Build Failure**
+- **Problem**: The lowlighter/metrics@latest action was failing with Docker build errors due to missing `xzcat` dependency during nokogiri gem compilation
+- **Error**: `xzcat not found (RuntimeError)` during Ruby gem installation
+- **Solution**: Pinned the action to stable version `@v3.34` instead of `@latest`
 
 #### **GitHub Projects (classic) API Deprecation**
 - **Problem**: The achievements plugin was trying to access GitHub's deprecated Projects (classic) API
@@ -17,10 +22,14 @@ The GitHub metrics workflow was consistently failing due to two main issues:
 - **Error**: `Cannot read properties of undefined (reading 'includes')`
 - **Solution**: Added explicit sections configuration with `plugin_lines_sections: base`
 
-### 2. Environment Configuration Simplification
+#### **Deprecated Chart Library**
+- **Problem**: The `chartist` library used for habit charts was deprecated
+- **Solution**: Updated `plugin_habits_charts_type` from `chartist` to `graph`
 
-- **Change**: Removed unnecessary environment wrapper configuration
-- **Benefit**: Simplified token access and reduced potential configuration conflicts
+### 2. Environment Configuration Improvements
+
+- **Change**: Added debug flags for better troubleshooting with `debug_flags: --verbose`
+- **Benefit**: Better visibility into workflow execution for future debugging
 
 ## Files Modified
 
